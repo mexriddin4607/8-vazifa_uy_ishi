@@ -1,0 +1,62 @@
+.elementlar{
+    background-color: black;
+    text-align: center;
+    height: 85px;
+    font-size: 25px;
+    word-spacing: 20px;
+
+}
+.elementlar a{
+    text-decoration: none;
+    line-height: 80px;
+    color: white;
+}
+.qullanma{
+  font-size: 45px;
+}
+.home  {
+    background-color: rgb(96, 172, 96);
+    color: white;
+    text-decoration: none;
+    padding: 15px 2px;
+    margin: 5px 5px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.next {
+    background-color:rgb(96, 172, 96);
+    color: white;
+    text-decoration: none;
+    padding: 15px 2px;
+    margin: 5px 5px;
+    font-size: 20px;
+
+}
+.box{
+    background-color:rgb(214, 235, 236);
+}
+.text {
+    padding: 15px 20px;
+}
+.btn1{
+    background-color: rgb(96, 172, 96);
+    color: white;
+    text-decoration: none;
+    padding: 10px 5px;
+    margin: 5px 5px;
+    font-size: 20px;
+
+}
+.btn2{
+    background-color:black;
+    color: white;
+    text-decoration: none;
+    padding: 10px 5px;
+    margin: 5px 5px;
+    font-size: 20px;
+    text-align: center;
+}
+.try{
+    margin-left: 30px;
+}
